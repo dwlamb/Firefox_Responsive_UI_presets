@@ -11,4 +11,4 @@ To implement these in Firefox:
   - enter the Preference name in the "New String Value" dialog box (Ctrl+V if you copied the string mentioned in Step 3) and click Ok
   - for the moment, leave value blank and click OK
 5.  Right click on "devtools.responsiveUI.presets" and select Modify
-6.  paste in the presets, everything from '[' to ']' and including those brackets
+6.  paste in the presets from the file 'Phone_and_Tablet_Presets.json', everything from '[' to ']' and including those brackets
