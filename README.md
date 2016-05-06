@@ -12,3 +12,7 @@ To implement these in Firefox:
   - for the moment, leave value blank and click OK
 5.  Right click on "devtools.responsiveUI.presets" and select Modify
 6.  paste in the presets from the file 'Phone_and_Tablet_Presets.json', everything from '[' to ']' and including those brackets
+7.  Exit about:config
+8.  Open a new tab or window, load in a web url you wish to see in different emulations
+9.  Press 'Ctrl+M' to see that site in one of the presets
+10.  From the presets, choose a dimension.
