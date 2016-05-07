@@ -1,33 +1,19 @@
-[{   "name": "Phone - Apple iPhone 5",   "width": 320,   "height": 568 },
-
+[{   "name": "Phone - Small",   "width": 240,   "height": 320 },
  {   "name": "Phone - Apple iPhone 3 + 4",   "width": 320,   "height": 480 },
-
- {   "name": "Phone - Google Nexus 4",   "width": 384,   "height": 640 },
-
- {   "name": "Phone - HTC One", "width": 360,   "height": 640 },
-
- {   "name": "Phone - HTC Desire", "width": 480,  "height": 800 },
-
- {   "name": "Phone - LG Optimus",   "width": 424,   "height": 753 },
-
  {   "name": "Phone - Nokia Lumia 520",   "width": 320,   "height": 534 },
-
- {   "name": "Phone - Nokia Lumia 925 + 1020",   "width": 384,   "height": 640 },
-
- {   "name": "Phone - Samsung Galaxy S IV + III",   "width": 360,   "height": 640 },
-
  {   "name": "Phone - Samsung Galaxy S II",   "width": 320,   "height": 534 },
-
+ {   "name": "Phone - Apple iPhone 5",   "width": 320,   "height": 568 },
+ {   "name": "Phone - Nokia Lumia 925 + 1020",   "width": 384,   "height": 640 },
+ {   "name": "Phone - Google Nexus 4",   "width": 384,   "height": 640 },
+ {   "name": "Phone - HTC One", "width": 360,   "height": 640 },
+ {   "name": "Phone - HTC Desire", "width": 480,  "height": 800 },
+ {   "name": "Phone - LG Optimus",   "width": 424,   "height": 753 },
+ {   "name": "Phone - Samsung Galaxy S III + IV",   "width": 360,   "height": 640 },
  {   "name": "Phone - Sony Xperia Z",   "width": 360,   "height": 640 },
-
+ {   "name": "Tablet - Small",   "width": 480,   "height": 640 },
  {   "name": "Tablet - Apple iPad 1-4 / Mini / Air",   "width": 768,   "height": 1024 },
-
  {   "name": "Tablet - Amazon Kindle Fire HD 8.9",   "width": 800,   "height": 1280 },
-
  {   "name": "Tablet - Amazon Kindle Fire HD 7",   "width": 533,   "height": 853 },
-
  {   "name": "Tablet - Amazon Kindle Fire",   "width": 600,   "height": 1024 },
-
  {   "name": "Tablet - Blackberry Playbook",   "width": 600,   "height": 1024 },
-
  {   "name": "Tablet - Google Nexus 7",   "width": 604,   "height": 966 }]
